@@ -10,7 +10,7 @@ int rollD20()
 {
 	return rand() % 20 + 1;
 }
-
+//This is a very insightful observation re: your code. 
 int rollD4()
 {
 	return rand() % 4 + ;
